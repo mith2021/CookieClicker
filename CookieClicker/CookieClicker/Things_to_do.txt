@@ -1,0 +1,11 @@
+1. Text Boxes that show up when you hover over a button to show instructions
+
+2. Make UI more aesthetic (Optional)
+
+3. Add satisfying sounds when button is clicked
+
+4. Finish the types of cookies
+
+5. Finish the effects section
+
+6. Optional: Add a save game feature 
